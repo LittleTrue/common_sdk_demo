@@ -6,6 +6,7 @@
         "sdk",
         "common_sdk_demo"
     ],
+    "license": "Apache-2.0",
     "require": {
         "php": ">=5.6",
         "ext-json": "*",

@@ -1,3 +1,4 @@
+.vscode/
 .idea/
 .git/
 vendor/
@@ -5,7 +6,5 @@ vendor/
 .DS_Store
 index.php
 response.html
-tests/
-Tests/
 index.php
 test.php

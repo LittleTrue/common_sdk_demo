@@ -13,7 +13,7 @@
         "guzzlehttp/guzzle": "^6.2 || ^7.0",
         "adbario/php-dot-notation": "^2.0",
         "pimple/pimple": "^2.1.1",
-        "symfony/cache": "^3.3 || ^4.3 || ^5.0"
+        "symfony/cache": "^3.3"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.15",
@@ -28,7 +28,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Demo\\Tests\\": "tests/"
+            "Tests\\": "tests/"
         }
     },
     "repositories": [
